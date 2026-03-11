@@ -19,11 +19,11 @@ https://drive.google.com/drive/folders/1oKZxORvL57z_kCBRsrOTok1qZrwajV_C?usp=dri
 The dataset used in this project can be used from the following link:
 
 https://drive.google.com/drive/folders/1pswcM2FMdZTOY_XRjb4zyk-cpRL9aPLS?usp=drive_link
+
 ### Installation
 
 Clone the repository and install dependencies:
 
-```bash
 pip install -r requirements.txt
 
 ## Annotation process:
