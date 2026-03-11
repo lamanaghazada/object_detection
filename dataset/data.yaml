@@ -1,0 +1,15 @@
+path: .
+
+train: /content/drive/MyDrive/dataset/images/train/
+val: /content/drive/MyDrive/dataset/images/val/
+test: /content/drive/MyDrive/dataset/images/test/
+
+# train: /Users/laman/Downloads/dataset/images/train/
+# val: /Users/laman/Downloads/dataset/images/val/
+# test: /Users/laman/Downloads/dataset/images/test/
+
+names:
+  0: car
+  1: bus
+  2: motorbike
+  3: bicycle
