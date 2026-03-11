@@ -8,6 +8,16 @@ This project focuses on object detection in urban environments.Autonomous system
 
 Follow the steps below.
 
+### Clone the repository
+
+git clone https://github.com/lamanaghazada/object_detection.git
+
+### Install dependencies
+
+pip install -r requirements.txt
+
+### Additional Set up (in case any problem) 
+
 ### 1. Open the Notebook
 
 Open the provided notebook in Google Colab and run the cells sequentially.
