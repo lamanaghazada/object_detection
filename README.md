@@ -212,7 +212,7 @@ The following tools and libraries were used throughout the project:
 - **Python libraries:**
   - `torch` / `torchvision` – for deep learning and model backbone support
   - `opencv-python` – for image processing and visualization
-  ### Challenges Faced
+### Challenges Faced
   Challenge was to select a **small subset** from **17,125 images** with only **four specific types of images** . Initially, I started manually selecting images without considering other folders, which was **time-consuming**. Later, I noticed that the **annotation folder** contained labels for each image, where images were assigned values of -1 or 1. Using this information, I was able to **extract only the images labeled as 1** from the four relevant `.txt` files via a **Python script**, which significantly **saved time** and improved workflow efficiency.
 
 ### Future Improvements
